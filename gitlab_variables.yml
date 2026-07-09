@@ -1,3 +1,5 @@
+## https://pradappandiyan.medium.com/understanding-gitlab-ci-cd-variables-for-pip-c0ef42eef37c
+
 variables: 
   GLOBAL_VARIABLE: "This is a global variable"
   COMMON_URL: "https://example.com"
